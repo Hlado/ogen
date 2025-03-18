@@ -2,7 +2,7 @@
 package ogen
 
 import (
-	"github.com/go-faster/yaml"
+	"sigs.k8s.io/yaml"
 )
 
 // Parse parses JSON/YAML into OpenAPI Spec.
